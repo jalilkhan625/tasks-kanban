@@ -1,4 +1,4 @@
-# 🧩 Canvaso-Style Kanban Board
+# Kanban Board
 
 A sleek and modern **Kanban board** built with **React**, inspired by the UI of **Canvaso Product Design**.  
 This project showcases smooth drag-and-drop functionality using `@dnd-kit`, clean design with Material UI, and modular code structure.
